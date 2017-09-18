@@ -1,0 +1,13 @@
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\bin\Debug\Recap Calculator.exe.config
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\bin\Debug\Recap Calculator.exe
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\bin\Debug\Recap Calculator.pdb
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.csprojResolveAssemblyReference.cache
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap_Calculator.Form1.resources
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap_Calculator.Properties.Resources.resources
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.csproj.GenerateResource.Cache
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.exe
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.pdb
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\bin\Debug\Recap Calculator.exe.manifest
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\bin\Debug\Recap Calculator.application
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.exe.manifest
+d:\documente\visual studio 2013\Projects\Recap Calculator\Recap Calculator\obj\Debug\Recap Calculator.application
